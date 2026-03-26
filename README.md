@@ -1,7 +1,7 @@
 
 # Digital Literacy Project
 
-## Student Details
+## **Profile**
 - **Name:** Vanshika Lall  
 - **Registration Number:** 25BHI10121 
 - **Branch:** B.Tech CSE health informatics  
