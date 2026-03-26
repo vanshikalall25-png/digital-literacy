@@ -15,17 +15,6 @@ This project is part of the CSE0001 Digital Literacy course. As a Student Digita
 
 ---
 
-## Repository Structure
-
-- `report/` → Final project report (PDF/DOCX)  
-- `task-1-presentation/` → Infographic design screenshot  
-- `task-2-portfolio/` → Screenshots of GitHub, LinkedIn, etc.  
-- `task-3-platforms/` → Coding platform + Google Form screenshots  
-- `task-4-email-etiquette/` → Email drafts + checklist  
-- `task-5-cybercrime/` → Case study + prevention checklist  
-
----
-
 ## Task Summary
 
 ### Task 1: Digital Literacy Infographic  
@@ -53,6 +42,17 @@ Drafted professional emails and created a social media do’s and don’ts check
 
 ### Task 5: Cybercrime Awareness  
 Studied cybercrime (UPI fraud), wrote a case study, and created a prevention checklist to promote online safety.
+
+---
+
+## Repository Structure
+
+- `report/` → Final project report (PDF/DOCX)  
+- `task-1-presentation/` → Infographic design screenshot  
+- `task-2-portfolio/` → Screenshots of GitHub, LinkedIn, etc.  
+- `task-3-platforms/` → Coding platform + Google Form screenshots  
+- `task-4-email-etiquette/` → Email drafts + checklist  
+- `task-5-cybercrime/` → Case study + prevention checklist  
 
 ---
 ## Conclusion:
