@@ -5,3 +5,5 @@
 
 **Google Workspace Collaboration**
 --
+<img width="926" height="843" alt="Screenshot 2026-03-27 050358" src="https://github.com/user-attachments/assets/7805f90f-0f8e-432b-b548-0e3efc28227b" />
+<img width="964" height="697" alt="Screenshot 2026-03-27 050415" src="https://github.com/user-attachments/assets/2ef204d8-e25f-4bf5-b22b-bddfbf59bb8d" />
